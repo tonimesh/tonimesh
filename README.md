@@ -4,8 +4,8 @@
 ## I'm a Student and Developer!!
 
 
-- 🌱 Right now I'm pursuing masters of Computer applications.
-- 👯 I have been interest in web development and software development.
+- 👯 Right now I'm pursuing masters of Computer applications.
+- 🌱 I have been interest in web development and software development.
 
 
 ### Connect with me:
