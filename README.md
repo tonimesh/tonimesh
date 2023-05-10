@@ -1,10 +1,10 @@
 ### Hi there, I'm Tonimesh Mondal
 
 
-## I'm a Student and Developer!!
+## I'm a Developer!!
 
 
-- 👯 Right now I'm pursuing masters of Computer applications.
+- MCA GRADUATE
 - 🌱 I have been interest in web development and software development.
 
 
