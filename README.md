@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="tonimesh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="tonimesh | Instagram" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)" />][Linkedin]
 
 <br />
 
@@ -31,5 +31,5 @@
 
 ---
 
-[instagram]: https://www.instagram.com/ig._.toni/
+[instagram]: linkedin.com/in/tonimesh-mondal
 [github]: https://github.com/tonimesh
